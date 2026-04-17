@@ -5,16 +5,16 @@ matriz = [ [10, 15, 20], [3, 7, 14] ]
 cantantes = [
     {"nombre": "Ricky Martin", "pais": "Puerto Rico"},
     {"nombre": "Chayanne", "pais": "Puerto Rico"}
-] #Lista
+] 
 
 ciudades = {
     "México": ["Ciudad de Mexico", "Guadalajara", "Cancún"],
     "Chile": ["Santiago", "Concepción", "Viña del Mar"]
-} #Diccionario
+} 
 
 coordenadas = [
     {"latitud": 8.2588997, "longitud": -84.9399704}
-]#Lista
+]
 
 # A) Cambia el valor de 3 en matriz por 6. 
 matriz [1] [0] = 6
